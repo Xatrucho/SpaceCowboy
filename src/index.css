@@ -1,0 +1,70 @@
+/* :root {
+    margin: 0px;
+    padding: 0px;
+ } */
+
+
+/* .bgimg {
+    margin: 0;
+} */
+
+html,body {padding:0; margin:0;}
+
+.info-container > .shop-name h1 {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    padding: 0px;
+    
+}
+
+.bgimg > .spaceship-container > img {
+    display: flex;
+    align-items: center;
+    
+    
+}
+
+.info-container > .my-title h2 {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    padding: 0px;
+}
+
+.info-container > .my-title h3 {
+    margin: 0;
+    display: flex;
+    padding: 0px 0px 0px 0px;
+    
+}
+
+.language-container {
+    margin: 0;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0px;
+} 
+
+.footer > h4 {
+    margin: 0;
+    display: flex;
+    padding: 0px 0px 0px 0px;
+}
+
+.bgimg {
+    background-image: url(../src/images/space-stars.jpeg);
+    background-size: cover;
+    height: 100%;
+}
+
+.my-title > img {
+    display: flex;
+    padding: 0px 0px 0px 0px;
+}
+
+
+
+ 
+
+ 
