@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SpaceCowboy/static/css/main.483adb6c.css",
+    "main.js": "/SpaceCowboy/static/js/main.1987d3b4.js",
+    "static/media/space-matrix.jpeg": "/SpaceCowboy/static/media/space-matrix.9751b6395e2572ca565c.jpeg",
+    "static/media/space-stars.jpeg": "/SpaceCowboy/static/media/space-stars.8857bd486a2b13df81f8.jpeg",
+    "static/media/spaceship-swordfish-freelance.jpeg": "/SpaceCowboy/static/media/spaceship-swordfish-freelance.825d8a4dacea9160bf5f.jpeg",
+    "index.html": "/SpaceCowboy/index.html",
+    "main.483adb6c.css.map": "/SpaceCowboy/static/css/main.483adb6c.css.map",
+    "main.1987d3b4.js.map": "/SpaceCowboy/static/js/main.1987d3b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.483adb6c.css",
+    "static/js/main.1987d3b4.js"
+  ]
+}
