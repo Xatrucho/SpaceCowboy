@@ -3,12 +3,9 @@ import ReactDOM from "react-dom"
 import logo from "../src/images/spaceship-swordfish-freelance.jpeg"
 import code from "../src/images/space-matrix.jpeg"
 import './index.css';
-import './bg-styles.css';
-// import '../src/images/spaceship-swordfish-freelance.jpeg'
-// import "./App.css";
 
 
-function Page() {
+const CustomsPage = () => {
   return (
     <div className="bgimg">
           <div className="spaceship-container">
@@ -64,5 +61,5 @@ function Page() {
   )
 }
 
-ReactDOM.render(<Page />, document.getElementById("root"))
+ReactDOM.render(<CustomsPage />, document.getElementById("root"))
 
